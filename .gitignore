@@ -1,0 +1,5 @@
+# Personal memory / workspace metadata (do NOT commit)
+.workbuddy/
+
+# Local uploads (runtime generated)
+uploads/

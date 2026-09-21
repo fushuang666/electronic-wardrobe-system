@@ -1,0 +1,18 @@
+# Build / dependency
+node_modules/
+dist/
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local uploads (runtime generated)
+uploads/
